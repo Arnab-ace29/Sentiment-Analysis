@@ -28,7 +28,7 @@ For BERT Embeddings, we train similarly but we will skip the features dataset pr
 ### Results  
 The results obtained from BERT is the best amongst all three models. There is a slight difference between 2 and 3 but 3 performs better. Currently this model score stands on **rank 98 out of 6000+ participants with 865 unique solutions**.  
 
-###Further Scope of Study
+### Further Scope of Study
 - The results may further be refined using other combinations of word embeddings such as GloVe, Word2Vec and fastText
 - Other Glove embeddings can be used such as Glove wikipedia, Glove.840b etc
 - Ensemble of different learning algorythms might be used to increase the prediction accuracy of models further
