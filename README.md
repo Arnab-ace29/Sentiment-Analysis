@@ -26,7 +26,7 @@ For 2-3 the process till here is same, but in 3 we similarly train model on **bi
 For BERT Embeddings, we train similarly but we will skip the features dataset process, and Pass the pre-processed tweets directly to the **BERT** embeddings layers.  
 
 ### Results  
-The results obtained from BERT is the best amongst all three models. There is a slight difference between 2 and 3 but 3 performs better. Currently this model score stands on **rank 98 out of 6000+ participants with 865 unique solutions**.  
+The results obtained from BERT is the best amongst all three models. There is a slight difference between 2 and 3 but 3 performs better. Currently this model score stands on **rank 70 out of 6000+ participants with 865 unique solutions**.  
 
 ### Further Scope of Study
 - The results may further be refined using other combinations of word embeddings such as GloVe, Word2Vec and fastText
